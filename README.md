@@ -1,5 +1,5 @@
 # FAQs
 
-Today, I create FAQs Page in HTML.
+Today, I create a FAQs Page in HTML.
 
-![image](https://github.com/RanaHuzaima/FAQs/assets/120297532/355fa971-2fe2-4264-b974-b634f2bc2827)
+![image](https://github.com/RanaHuzaima/FAQs/assets/120297532/540f54fb-65d2-4d33-812e-f20ce5b1fd03)
